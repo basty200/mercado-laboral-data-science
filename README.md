@@ -144,7 +144,7 @@ jupyter notebook notebooks/analisis_mercado_laboral_ds.ipynb
 
 **Bastian Soto**  
 Estudiante de Ciencia de Datos — Duoc UC  
-[LinkedIn](https://www.linkedin.com/in/bastian-isaias-soto-gonz%C3%A1lez-2395202a5/) · [GitHub](#) · [Kaggle](#)
+[LinkedIn](https://www.linkedin.com/in/bastian-isaias-soto-gonz%C3%A1lez-2395202a5/) · [GitHub](https://github.com/basty200) · [Kaggle](https://www.kaggle.com/bastianisaias)
 
 ---
 
